@@ -22,7 +22,7 @@ body{
 /**********HEADER STYLES**********/
 
 header {
-    background-image: url(../speo/images/index-banner.jpg);
+    background-image: url(images/index-banner.jpg);
     filter: grayscale(.2);
     background-position: center;
     background-size: cover;
